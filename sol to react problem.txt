@@ -1,0 +1,2 @@
+Downgrading the react-script version from 3.0.1 to 2.1.8 worked for me. npm install react-scripts@2.1.8 npm install npm start
+
